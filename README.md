@@ -1,6 +1,6 @@
 # solar-research-model
 Final Year University R&amp;D Project, simulating solar cell efficiency in underwater environments as a power option for autonomous devices.
-Use SSM2D_SI code for mono-Silicon Solar Cell model, use SSM2D_GAP code for InGaP model (Silicon vs InGaP = two different solar cell semiconductor materials). 
+Use SSM2D_SI code for mono-Silicon Solar Cell model, use SSM2D_GAP code for InGaP model (mono-Silicon vs InGaP = two different solar cell semiconductor materials). 
 
 The below figure shows an example output of the model, a heat map representation of a mono-Silicon Solar Cell unit power output at 1m water depth across the world's ocean types at the summer solstice (21st June). The user input conditions of the model can be edited to simulate varying solar cell semiconductor types, water depths or time of year. The model takes into account the behaviour of the solar spectrum through the atmosphere. 
 
